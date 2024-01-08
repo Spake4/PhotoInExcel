@@ -1,0 +1,9 @@
+D:/PhotoInExcel/build/CMakeFiles/Experimental.dir
+D:/PhotoInExcel/build/CMakeFiles/Nightly.dir
+D:/PhotoInExcel/build/CMakeFiles/Continuous.dir
+D:/PhotoInExcel/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/PhotoInExcel/build/CMakeFiles/PhotoInExcel.dir
+D:/PhotoInExcel/build/CMakeFiles/PACKAGE.dir
+D:/PhotoInExcel/build/CMakeFiles/RUN_TESTS.dir
+D:/PhotoInExcel/build/CMakeFiles/ALL_BUILD.dir
+D:/PhotoInExcel/build/CMakeFiles/ZERO_CHECK.dir
